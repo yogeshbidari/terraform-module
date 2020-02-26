@@ -1,5 +1,0 @@
-*.tfstate
-*.backup
-*.gitignore
-*.terraform
-/.terraform
